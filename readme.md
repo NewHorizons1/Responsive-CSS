@@ -1,0 +1,1 @@
+In challenge one I learned how to adjust the width of the container, and eliminate the overflow.
