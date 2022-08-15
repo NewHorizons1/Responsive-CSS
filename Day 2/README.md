@@ -1,0 +1,1 @@
+Today we covered videos of when to use EM and REM. REM builds on the root element size, where EM compounds on the prevous parent element. 
